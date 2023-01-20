@@ -1,0 +1,58 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+#latin{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+} 
+
+#devanagari{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+} 
+
+#arabic{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+} 
+
+
+h1{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+}
+
+.font-types{
+    text-align: center;
+    color: white;
+}
+
+li>p{
+    text-decoration:underline;
+}
+
+li>p+p{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    width: 10%;
+}
